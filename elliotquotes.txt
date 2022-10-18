@@ -1,5 +1,9 @@
-Quotes that Elliot says:
----------------------------------------------------------
+# Quotes that Elliot says:
+# ------------------------
+#
+
+import random
+
 ". . . for the sake of argument."
 "so let's say, (for the sake of argument)"
 "I don't have the foggiest of ideas."
